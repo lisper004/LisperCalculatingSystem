@@ -153,7 +153,6 @@ read_binary:
 .done:
     ret
 
-; Функция вывода бинарного числа
 print_binary:
     pusha
     mov cx, 8
